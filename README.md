@@ -1,3 +1,3 @@
 # ToDo-app
 
-Developedbyed JS Course
+Developedbyed JS Course (https://developedbyed.com/)
